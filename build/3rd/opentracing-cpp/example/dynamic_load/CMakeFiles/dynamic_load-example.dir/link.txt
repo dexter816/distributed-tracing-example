@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra   CMakeFiles/dynamic_load-example.dir/dynamic_load-example.cpp.o  -o dynamic_load-example -rdynamic ../../libopentracing.so.1.3.0 -ldl -Wl,-rpath,/home/d/distributed-tracing-example/build/3rd/opentracing-cpp 

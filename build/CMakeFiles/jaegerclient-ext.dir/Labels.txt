@@ -1,0 +1,13 @@
+# Target labels
+ jaegerclient-ext
+# Source files and their labels
+/home/d/distributed-tracing-example/build/CMakeFiles/jaegerclient-ext
+/home/d/distributed-tracing-example/build/CMakeFiles/jaegerclient-ext.rule
+/home/d/distributed-tracing-example/build/CMakeFiles/jaegerclient-ext-complete.rule
+/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-install.rule
+/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-mkdir.rule
+/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-download.rule
+/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-update.rule
+/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-patch.rule
+/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-configure.rule
+/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-build.rule

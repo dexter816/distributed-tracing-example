@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra   CMakeFiles/value_test.dir/value_test.cpp.o  -o value_test -rdynamic 

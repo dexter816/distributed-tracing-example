@@ -1,0 +1,2 @@
+/usr/bin/ar qc libopentracing.a  CMakeFiles/opentracing-static.dir/src/propagation.cpp.o CMakeFiles/opentracing-static.dir/src/dynamic_load.cpp.o CMakeFiles/opentracing-static.dir/src/noop.cpp.o CMakeFiles/opentracing-static.dir/src/tracer.cpp.o CMakeFiles/opentracing-static.dir/src/tracer_factory.cpp.o CMakeFiles/opentracing-static.dir/src/ext/tags.cpp.o CMakeFiles/opentracing-static.dir/src/dynamic_load_unix.cpp.o
+/usr/bin/ranlib libopentracing.a

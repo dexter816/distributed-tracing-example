@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libdisttracing.a  CMakeFiles/disttracing.dir/TracerPlugin.cc.o CMakeFiles/disttracing.dir/Carrier.cc.o
+/usr/bin/ranlib ../../lib/libdisttracing.a

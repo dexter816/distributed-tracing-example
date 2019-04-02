@@ -1,0 +1,19 @@
+# Hashes of file build rules.
+2bc3a6b7bcea312e053dbbf1b0805861 CMakeFiles/jaegerclient-ext
+ea33e48c5147fe532111d71d42be687e CMakeFiles/jaegerclient-ext-complete
+2bc3a6b7bcea312e053dbbf1b0805861 CMakeFiles/opentracing-ext
+136395817a143d6216ffe11ff77b7344 CMakeFiles/opentracing-ext-complete
+38a3dc3d4006b4d462504daa6a7b0040 jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-build
+4fc9d876f3d78d8a053096b3bac8d876 jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-configure
+1e3fbfdd203c21af1f77d8486ba55d2b jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-download
+187b5b36787fe324d15980a4fa632043 jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-install
+f11a31272e8572fc62e1e7b12a3ad863 jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-mkdir
+d0cdb49b2a29f572adbd35a557664487 jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-patch
+80da44a7b6de7a72cdc6dc40740d52ce jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-update
+4744423bb07130340b4159472eeb7ea5 opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-build
+4baabcd30f7b4fce9e71607c0e29081e opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-configure
+a7bf85d302caf3da591425f3671beeac opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-download
+05ed6e3b847476f3994711443f374521 opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-install
+6b714d62c0f0133df5b95a238a7aa161 opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-mkdir
+21da66faca0d478c9e40d29b03fc5ea0 opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-patch
+1d0414edfd6cf0f2b8c6aa15b30060c4 opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-update

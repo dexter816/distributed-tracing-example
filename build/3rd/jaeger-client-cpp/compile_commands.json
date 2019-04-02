@@ -1,0 +1,1102 @@
+[
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/DynamicallyLoadTracerTest.dir/src/jaegertracing/DynamicallyLoadTracerTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicallyLoadTracerTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicallyLoadTracerTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Config.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Config.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Config.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/LogRecord.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/LogRecord.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/LogRecord.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Logging.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Logging.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Logging.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Reference.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Reference.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Reference.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Span.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Span.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Span.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/SpanContext.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanContext.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanContext.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Tag.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tag.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tag.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/TraceID.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TraceID.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TraceID.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Tracer.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tracer.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tracer.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/TracerFactory.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerFactory.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerFactory.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/DynamicLoad.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicLoad.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicLoad.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Transport.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Transport.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Transport.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/UDPTransport.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/UDPTransport.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/UDPTransport.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/BaggageSetter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/BaggageSetter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/BaggageSetter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RemoteRestrictionManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/Restriction.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/Restriction.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/Restriction.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RestrictionManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RestrictionsConfig.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionsConfig.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionsConfig.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Counter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Counter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Counter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Gauge.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Gauge.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Gauge.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/InMemoryStatsReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/InMemoryStatsReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/InMemoryStatsReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Metric.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metric.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metric.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Metrics.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metrics.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metrics.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullCounter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullCounter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullCounter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullGauge.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullGauge.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullGauge.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullStatsFactory.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsFactory.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsFactory.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullStatsReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullTimer.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullTimer.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullTimer.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsFactory.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactory.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactory.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsFactoryImpl.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactoryImpl.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactoryImpl.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Timer.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Timer.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Timer.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/IPAddress.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/IPAddress.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/IPAddress.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/Socket.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/Socket.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/Socket.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/URI.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/URI.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/URI.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Error.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Error.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Error.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Header.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Header.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Header.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Method.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Method.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Method.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Request.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Request.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Request.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Response.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Response.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Response.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/platform/Endian.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Endian.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Endian.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/platform/Hostname.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Hostname.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Hostname.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Extractor.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Extractor.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Extractor.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/HeadersConfig.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/HeadersConfig.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/HeadersConfig.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Injector.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Injector.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Injector.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Propagator.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Propagator.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Propagator.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/CompositeReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/CompositeReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/CompositeReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/Config.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Config.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Config.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/InMemoryReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/InMemoryReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/InMemoryReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/LoggingReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/LoggingReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/LoggingReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/NullReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/NullReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/NullReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/RemoteReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/RemoteReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/RemoteReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/Reporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Reporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Reporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/AdaptiveSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/AdaptiveSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/AdaptiveSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/Config.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Config.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Config.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/ConstSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ConstSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ConstSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/ProbabilisticSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ProbabilisticSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RateLimitingSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RateLimitingSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RateLimitingSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RemoteSamplingJSON.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemoteSamplingJSON.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemoteSamplingJSON.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RemotelyControlledSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemotelyControlledSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemotelyControlledSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/Sampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Sampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Sampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/SamplingStatus.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/SamplingStatus.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/SamplingStatus.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Agent.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Agent.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Agent.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/AggregationValidator.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/AggregationValidator.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/AggregationValidator.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Collector.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Collector.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Collector.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Dependency.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Dependency.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Dependency.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/SamplingManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/SamplingManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/SamplingManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/TracedService.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/TracedService.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/TracedService.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/ZipkinCollector.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/ZipkinCollector.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/ZipkinCollector.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/agent_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/agent_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/baggage_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/baggage_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/dependency_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/dependency_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/jaeger_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/jaeger_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/sampling_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/sampling_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/tracetest_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/tracetest_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/zipkincore_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/zipkincore_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/ErrorUtil.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/ErrorUtil.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/ErrorUtil.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/HexParsing.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/HexParsing.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/HexParsing.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/RateLimiter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/RateLimiter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/RateLimiter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/Regex.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/Regex.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/Regex.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/UDPClient.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/UDPClient.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/UDPClient.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/YAML.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/YAML.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/YAML.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/ConfigTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/ConfigTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/ConfigTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/ReferenceTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/ReferenceTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/ReferenceTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/SpanContextTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanContextTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanContextTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/SpanTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TagTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TagTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TagTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TraceIDTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TraceIDTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TraceIDTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TracerTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TracerFactoryTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerFactoryTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerFactoryTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/DynamicLoadTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicLoadTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicLoadTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/UDPTransportTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/UDPTransportTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/UDPTransportTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/baggage/BaggageTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/BaggageTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/BaggageTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/metrics/MetricsTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/MetricsTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/MetricsTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/metrics/NullStatsFactoryTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsFactoryTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsFactoryTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/IPAddressTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/IPAddressTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/IPAddressTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/SocketTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/SocketTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/SocketTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/URITest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/URITest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/URITest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/HeaderTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/HeaderTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/HeaderTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/MethodTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/MethodTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/MethodTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/ResponseTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/ResponseTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/ResponseTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/propagation/PropagatorTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/PropagatorTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/PropagatorTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/reporters/ReporterTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/ReporterTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/ReporterTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/samplers/SamplerTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/SamplerTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/SamplerTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/testutils/MockAgentTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/MockAgentTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/MockAgentTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/testutils/TracerUtil.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/TracerUtil.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/TracerUtil.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/testutils/TUDPTransportTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/TUDPTransportTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/TUDPTransportTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/ErrorUtilTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/ErrorUtilTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/ErrorUtilTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/RateLimiterTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/RateLimiterTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/RateLimiterTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -DGTEST_HAS_TR1_TUPLE=0 -DGTEST_USE_OWN_TR1_TUPLE=0 -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src   -Wall -Werror -pedantic -fPIE   -std=c++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/UDPClientTest.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/UDPClientTest.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/UDPClientTest.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Config.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Config.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Config.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/LogRecord.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/LogRecord.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/LogRecord.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Logging.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Logging.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Logging.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Reference.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Reference.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Reference.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Span.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Span.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Span.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/SpanContext.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanContext.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/SpanContext.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Tag.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tag.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tag.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/TraceID.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TraceID.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TraceID.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Tracer.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tracer.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Tracer.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/TracerFactory.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerFactory.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/TracerFactory.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/DynamicLoad.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicLoad.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/DynamicLoad.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Transport.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Transport.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/Transport.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/UDPTransport.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/UDPTransport.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/UDPTransport.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/BaggageSetter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/BaggageSetter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/BaggageSetter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RemoteRestrictionManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RemoteRestrictionManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/Restriction.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/Restriction.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/Restriction.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RestrictionManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RestrictionsConfig.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionsConfig.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/baggage/RestrictionsConfig.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Counter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Counter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Counter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Gauge.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Gauge.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Gauge.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/InMemoryStatsReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/InMemoryStatsReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/InMemoryStatsReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Metric.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metric.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metric.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Metrics.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metrics.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Metrics.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullCounter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullCounter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullCounter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullGauge.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullGauge.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullGauge.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullStatsFactory.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsFactory.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsFactory.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullStatsReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullStatsReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullTimer.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullTimer.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/NullTimer.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsFactory.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactory.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactory.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsFactoryImpl.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactoryImpl.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsFactoryImpl.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/StatsReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Timer.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Timer.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/metrics/Timer.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/IPAddress.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/IPAddress.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/IPAddress.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/Socket.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/Socket.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/Socket.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/URI.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/URI.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/URI.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Error.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Error.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Error.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Header.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Header.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Header.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Method.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Method.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Method.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Request.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Request.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Request.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Response.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Response.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/net/http/Response.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/platform/Endian.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Endian.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Endian.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/platform/Hostname.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Hostname.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/platform/Hostname.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Extractor.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Extractor.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Extractor.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/HeadersConfig.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/HeadersConfig.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/HeadersConfig.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Injector.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Injector.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Injector.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Propagator.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Propagator.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/propagation/Propagator.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/CompositeReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/CompositeReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/CompositeReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/Config.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Config.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Config.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/InMemoryReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/InMemoryReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/InMemoryReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/LoggingReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/LoggingReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/LoggingReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/NullReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/NullReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/NullReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/RemoteReporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/RemoteReporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/RemoteReporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/Reporter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Reporter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/reporters/Reporter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/AdaptiveSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/AdaptiveSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/AdaptiveSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/Config.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Config.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Config.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/ConstSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ConstSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ConstSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/ProbabilisticSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ProbabilisticSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/ProbabilisticSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RateLimitingSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RateLimitingSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RateLimitingSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RemoteSamplingJSON.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemoteSamplingJSON.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemoteSamplingJSON.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RemotelyControlledSampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemotelyControlledSampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/RemotelyControlledSampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/Sampler.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Sampler.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/Sampler.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/SamplingStatus.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/SamplingStatus.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/samplers/SamplingStatus.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Agent.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Agent.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Agent.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/AggregationValidator.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/AggregationValidator.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/AggregationValidator.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Collector.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Collector.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Collector.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Dependency.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Dependency.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/Dependency.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/SamplingManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/SamplingManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/SamplingManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/TracedService.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/TracedService.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/TracedService.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/ZipkinCollector.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/ZipkinCollector.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/ZipkinCollector.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/agent_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/agent_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/agent_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/baggage_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/baggage_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/baggage_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/dependency_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/dependency_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/dependency_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/jaeger_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/jaeger_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/jaeger_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/sampling_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/sampling_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/sampling_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/tracetest_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/tracetest_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/tracetest_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/zipkincore_constants.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_constants.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_constants.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/zipkincore_types.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_types.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/thrift-gen/zipkincore_types.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/ErrorUtil.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/ErrorUtil.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/ErrorUtil.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/HexParsing.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/HexParsing.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/HexParsing.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/RateLimiter.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/RateLimiter.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/RateLimiter.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/Regex.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/Regex.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/Regex.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/UDPClient.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/UDPClient.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/UDPClient.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp",
+  "command": "/usr/bin/c++   -Djaegertracing_EXPORTS -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/YAML.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/YAML.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/utils/YAML.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src/jaegertracing/testutils",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src/jaegertracing/testutils -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/testutils.dir/MockAgent.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/MockAgent.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/MockAgent.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src/jaegertracing/testutils",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src/jaegertracing/testutils -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/testutils.dir/SamplingManager.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/SamplingManager.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/SamplingManager.cpp"
+},
+{
+  "directory": "/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src/jaegertracing/testutils",
+  "command": "/usr/bin/c++    -I/home/d/distributed-tracing-example/build/3rd/jaeger-client-cpp/src/jaegertracing/testutils -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils -I/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src -isystem /home/d/.hunter/_Base/c2614bc/a5e1955/456d7e4/Install/include   -Wall -Werror -pedantic -fPIC   -std=c++11 -o CMakeFiles/testutils.dir/TUDPTransport.cpp.o -c /home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/TUDPTransport.cpp",
+  "file": "/home/d/distributed-tracing-example/3rd/jaeger-client-cpp/src/jaegertracing/testutils/TUDPTransport.cpp"
+}
+]

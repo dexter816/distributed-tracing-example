@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtestutils.a  CMakeFiles/testutils.dir/MockAgent.cpp.o CMakeFiles/testutils.dir/SamplingManager.cpp.o CMakeFiles/testutils.dir/TUDPTransport.cpp.o
+/usr/bin/ranlib libtestutils.a

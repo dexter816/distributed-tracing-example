@@ -1,0 +1,13 @@
+# Target labels
+ opentracing-ext
+# Source files and their labels
+/home/d/distributed-tracing-example/build/CMakeFiles/opentracing-ext
+/home/d/distributed-tracing-example/build/CMakeFiles/opentracing-ext.rule
+/home/d/distributed-tracing-example/build/CMakeFiles/opentracing-ext-complete.rule
+/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-install.rule
+/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-mkdir.rule
+/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-download.rule
+/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-update.rule
+/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-patch.rule
+/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-configure.rule
+/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-build.rule

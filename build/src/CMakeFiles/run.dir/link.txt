@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++17   CMakeFiles/run.dir/main.cc.o  -o ../bin/run -rdynamic -lpthread ../lib/libdisttracing.a ../3rd/opentracing-cpp/libopentracing.so -Wl,-rpath,/home/d/distributed-tracing-example/build/3rd/opentracing-cpp 

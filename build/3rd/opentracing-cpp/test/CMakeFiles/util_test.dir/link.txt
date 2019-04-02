@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra   CMakeFiles/util_test.dir/util_test.cpp.o  -o util_test -rdynamic 

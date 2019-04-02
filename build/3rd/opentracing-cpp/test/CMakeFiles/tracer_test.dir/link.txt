@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra   CMakeFiles/tracer_test.dir/tracer_test.cpp.o  -o tracer_test -rdynamic ../libopentracing.so.1.3.0 -ldl -Wl,-rpath,/home/d/distributed-tracing-example/build/3rd/opentracing-cpp 

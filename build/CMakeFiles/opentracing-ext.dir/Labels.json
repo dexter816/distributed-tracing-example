@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/d/distributed-tracing-example/build/CMakeFiles/opentracing-ext"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/CMakeFiles/opentracing-ext.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/CMakeFiles/opentracing-ext-complete.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-install.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-mkdir.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-download.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-update.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-patch.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-configure.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/opentracing-ext-prefix/src/opentracing-ext-stamp/opentracing-ext-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opentracing-ext"
+		],
+		"name" : "opentracing-ext"
+	}
+}

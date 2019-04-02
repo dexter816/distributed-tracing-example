@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra   CMakeFiles/mocktracer_propagation_test.dir/propagation_test.cpp.o  -o mocktracer_propagation_test -rdynamic ../libopentracing_mocktracer.so.1.3.0 ../../libopentracing.so.1.3.0 -ldl -Wl,-rpath,/home/d/distributed-tracing-example/build/3rd/opentracing-cpp/mocktracer:/home/d/distributed-tracing-example/build/3rd/opentracing-cpp 

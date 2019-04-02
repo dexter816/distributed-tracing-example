@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/d/distributed-tracing-example/build/CMakeFiles/jaegerclient-ext"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/CMakeFiles/jaegerclient-ext.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/CMakeFiles/jaegerclient-ext-complete.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-install.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-mkdir.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-download.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-update.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-patch.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-configure.rule"
+		},
+		{
+			"file" : "/home/d/distributed-tracing-example/build/jaegerclient-ext-prefix/src/jaegerclient-ext-stamp/jaegerclient-ext-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"jaegerclient-ext"
+		],
+		"name" : "jaegerclient-ext"
+	}
+}
