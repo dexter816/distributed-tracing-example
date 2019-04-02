@@ -1,4 +1,5 @@
-# Distributed tracing example
+# Distributed Tracing Example
+
 This repo is based on OpenTracing with the following features:
 * A demo to simulate writes across Ceph cluster (From clients to OSDs with replications).
 * The usage of pure OpenTracing API and illustration of OpenTracing trace model.
@@ -53,3 +54,9 @@ options:
 ## Browse tracings
 * Access 127.0.0.1:16686 after running the demo.
 * Or, if "-local" option is used, the tracings will be available in `mock_traces.log`
+
+![Command Line Input](https://github.com/dexter816/distributed-tracing-example/blob/master/Pictures/command-line-args.png)
+
+![Tracer UI](https://github.com/dexter816/distributed-tracing-example/blob/master/Pictures/trace-ui.png)
+
+Inspired by cyx1231st
